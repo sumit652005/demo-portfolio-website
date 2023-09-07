@@ -55,12 +55,3 @@ window.onscroll = () => {
 }
  
 
-// text Animation
-
-var typed = new Typed(".auto-type", {
-    strings: ["Web Developer", "Programer", "App Developer", "UI/UX Designer"],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true
-});
-
